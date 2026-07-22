@@ -75,7 +75,7 @@ A web application to help users report and locate lost items efficiently.
 
 ## 📬 Contact
 
-📧 Email: hm2563749@gmail.com
+📧 Email: https://www.hm2563749@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/md-hamid-azam-54aaab309
