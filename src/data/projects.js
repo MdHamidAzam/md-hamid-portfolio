@@ -20,8 +20,8 @@ export const projects = [
     ],
     images: [dayareHome, dayarePackage],
 
-    github: "",
-    live: "",
+    github: "https://github.com/MdHamidAzam/ihram-legacy-hub",
+    live: "https://dayare-haram-hajj-and-umrah-f900onom3-mdhamidazams-projects.vercel.app/",
 
     featured: true,
   },
