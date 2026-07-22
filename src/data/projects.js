@@ -20,8 +20,8 @@ export const projects = [
     ],
     images: [dayareHome, dayarePackage],
 
-    github: "#",
-    live: "#",
+    github: "",
+    live: "",
 
     featured: true,
   },
