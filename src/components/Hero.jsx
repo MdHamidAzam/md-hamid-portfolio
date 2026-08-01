@@ -83,7 +83,7 @@ function Hero() {
             </div>
 
             <div>
-              <h2 className="text-4xl font-bold text-cyan-400">50+</h2>
+              <h2 className="text-4xl font-bold text-cyan-400">150+</h2>
               <p className="text-gray-400">DSA Problems</p>
             </div>
 
