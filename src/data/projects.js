@@ -4,6 +4,8 @@ import dayarePackage from "../assets/dayare-package.png";
 import zeroHome from "../assets/zerotrade-home.png";
 import zeroDashboard from "../assets/zerotrade-dashboard.png";
 
+import zyraHome from "../assets/zyra-home.png";
+
 export const projects = [
   {
     id: 1,
@@ -11,13 +13,7 @@ export const projects = [
     status: "Live",
     description:
       "A premium Hajj & Umrah booking platform developed for Dayare Haram Hajj Umrah Tours & Travels Pvt. Ltd. featuring luxury packages, secure booking, authentication, AI assistant, and an admin dashboard.",
-    tech: [
-      "React",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Tailwind",
-    ],
+    tech: ["React", "Node.js", "Express", "MongoDB", "Tailwind"],
     images: [dayareHome, dayarePackage],
 
     github: "https://github.com/MdHamidAzam/ihram-legacy-hub",
@@ -32,12 +28,7 @@ export const projects = [
     status: "Live",
     description:
       "A modern trading platform inspired by Zerodha with responsive landing page, dashboard, authentication and clean UI.",
-    tech: [
-      "React",
-      "Node.js",
-      "Express",
-      "MongoDB",
-    ],
+    tech: ["React", "Node.js", "Express", "MongoDB"],
     images: [zeroHome, zeroDashboard],
 
     github: "https://github.com/MdHamidAzam/ZeroTrade",
@@ -48,16 +39,25 @@ export const projects = [
 
   {
     id: 3,
+    title: "ZyraAI – AI Chat Application",
+    status: "Live",
+    description:
+      "A full-stack AI chat application powered by OpenAI with persistent conversations, chat history, thread management, and a responsive React interface.",
+    tech: ["React", "Vite", "Node.js", "Express", "MongoDB", "OpenAI API"],
+    images: [zyraHome],
+    github: "https://github.com/MdHamidAzam/ZyraAi",
+    live: "https://zyra-ai-mu.vercel.app",
+    featured: true,
+  },
+
+  {
+    id: 4,
     title: "Lost & Found Tracking System",
     status: "Live",
     description:
       "A web application to report and recover lost items with a clean and user-friendly interface.",
 
-    tech: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    tech: ["HTML", "CSS", "JavaScript"],
 
     images: [],
 
