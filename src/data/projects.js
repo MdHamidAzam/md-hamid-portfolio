@@ -6,6 +6,9 @@ import zeroDashboard from "../assets/zerotrade-dashboard.png";
 
 import zyraHome from "../assets/zyra-home.png";
 
+import CampusAwaazLoginPage from "../assets/Campus-AwaazLoginPage.png";
+import CampusAwaazHomePage from "../assets/Campus-AwaazHomePage.png";
+
 export const projects = [
   {
     id: 1,
@@ -39,6 +42,28 @@ export const projects = [
 
   {
     id: 3,
+    title: "Campus-Awaaz – AI Voice Assistant for Students",
+    status: "Live",
+    description:
+      "A multilingual AI-powered campus assistant that helps students access campus information, interact through voice in English, Hindi, and Hinglish, and manage campus complaints through a dedicated platform.",
+    tech: [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "FastAPI",
+      "SQLite",
+      "ElevenLabs API",
+      "Vercel",
+    ],
+    images: [CampusAwaazLoginPage, CampusAwaazHomePage],
+    github: "https://github.com/MdHamidAzam/Campus-Awaaz",
+    live: "https://campus-awaaz.vercel.app",
+    featured: true,
+  },
+
+  {
+    id: 4,
     title: "ZyraAI – AI Chat Application",
     status: "Live",
     description:
@@ -51,7 +76,7 @@ export const projects = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Lost & Found Tracking System",
     status: "Live",
     description:
