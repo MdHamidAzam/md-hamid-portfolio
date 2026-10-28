@@ -78,7 +78,7 @@ function Hero() {
           </div>
           <div className="flex flex-wrap justify-center lg:justify-start gap-10 mt-12">
             <div>
-              <h2 className="text-4xl font-bold text-cyan-400">3+</h2>
+              <h2 className="text-4xl font-bold text-cyan-400">5+</h2>
               <p className="text-gray-400">Projects</p>
             </div>
 

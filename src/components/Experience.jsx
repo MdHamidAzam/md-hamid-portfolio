@@ -25,7 +25,7 @@ function Experience() {
             </p>
 
             <p className="mt-3 text-gray-300">
-              Learning Full Stack MERN Development, Java, Data Structures & Algorithms, and building real-world web applications.
+              Full Stack MERN Developer, Java, Data Structures & Algorithms, and building real-world web applications.
             </p>
           </div>
 

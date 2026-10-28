@@ -4,13 +4,13 @@ function Achievements() {
   const achievements = [
     {
       icon: <FaProjectDiagram />,
-      title: "3+ Major Projects",
+      title: "5+ Major Projects",
       desc: "Built full-stack MERN and frontend applications.",
     },
     {
       icon: <FaCode />,
       title: "DSA Practice",
-      desc: "Solved 50+ Data Structures & Algorithms problems in Java.",
+      desc: "Solved 150+ Data Structures & Algorithms problems in Java.",
     },
     {
       icon: <FaLaptopCode />,
